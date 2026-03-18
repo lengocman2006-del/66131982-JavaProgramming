@@ -1,0 +1,31 @@
+/**
+ * 
+ */
+package bai1;
+
+/**
+ * 
+ */
+public class PhepTinh {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int a = 10;
+        int b = 5;
+
+        int tong = a + b;
+        int hieu = a - b;
+        int tich = a * b;
+        double thuong = (double) a / b; // ép kiểu để chia ra số thực
+
+        System.out.println("Tổng: " + tong);
+        System.out.println("Hiệu: " + hieu);
+        System.out.println("Tích: " + tich);
+        System.out.println("Thương: " + thuong);
+
+	}
+
+}
