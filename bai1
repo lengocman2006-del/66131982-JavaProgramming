@@ -1,0 +1,23 @@
+/**
+ * 
+ */
+package bai1;
+
+/**
+ * 
+ */
+public class bai1 {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("Lê Ngọc Mẫn ");
+		System.out.println("Đại Học Nha Trang ");
+		System.out.println("66-CNTT-2 ");
+		System.out.println("Nha Trang - Khánh Hòa ");
+
+	}
+
+}
