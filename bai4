@@ -1,0 +1,27 @@
+/**
+ * 
+ */
+package bai1;
+
+/**
+ * 
+ */
+public class bai4 {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		String greeting = """
+	            ======================
+	            HELLO, MODERN JAVA!
+	            ======================
+	            by LÊ NGỌC MẪN NTU
+	            ======================
+	            """;
+	        System.out.println(greeting);
+
+	}
+
+}
